@@ -1,0 +1,2 @@
+# RockPaperScisors
+Basic exercise
